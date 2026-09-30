@@ -19,20 +19,6 @@ Interactive Power BI dashboard for analyzing sales, profitability, logistics, cu
 - Data Modeling
 - Data Visualization
 
-## 📷 Dashboard Preview
-
-### Sales & Profit
-![Sales & Profit](screenshots/sales-profit.png)
-
-### Logistics & Warehouses
-![Logistics & Warehouses](screenshots/logistics-warehouses.png)
-
-### Customers & Regions
-![Customers & Regions](screenshots/clients-regions.png)
-
-### Employees & Efficiency
-![Employees & Efficiency](screenshots/employees-efficiency.png)
-
 ## 👨‍💻 Author
 
 **Iliazbek Tileshbaev**  
