@@ -1,8 +1,6 @@
 # Power BI Sales & Business Analytics Dashboard
 
-## 📊 Overview
 
-Interactive Power BI dashboard for analyzing sales, profitability, logistics, customers, warehouses, and employee efficiency.
 
 ## 📌 Dashboard Pages
 
