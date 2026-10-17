@@ -22,4 +22,4 @@ Interactive Power BI dashboard for analyzing sales, profitability, logistics, cu
 ## 👨‍💻 Author
 
 **Iliazbek Tileshbaev**  
-Data Analytics | Power BI | SQL | Python
+Data Analytics | Power BI
